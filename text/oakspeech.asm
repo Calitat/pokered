@@ -1,55 +1,57 @@
 _OakSpeechText1::
-	text "Hello there!"
-	line "Welcome to the"
-	cont "world of #MON!"
+	text "Ei, hola!"
+	line "Benvingut al"
+	cont "món de #MON!"
 
-	para "My name is OAK!"
-	line "People call me"
-	cont "the #MON PROF!"
+	para "El meu nom és OAK!"
+	line "La gent em diu"
+	cont "el PROFESSOR #MON!"
 	prompt
 
 _OakSpeechText2A::
-	text "This world is"
-	line "inhabited by"
-	cont "creatures called"
+	text "Este món està"
+	line "habitat per"
+	cont "criatures anomenadoes"
 	cont "#MON!@@"
 
 _OakSpeechText2B::
-	text $51,"For some people,"
-	line "#MON are"
-	cont "pets. Others use"
-	cont "them for fights."
+	text $51,"Per a alguns,"
+	line "#MON són mascotes."
+	cont "Altres els fan"
+	cont "servir per"
+	cont "lluitar."
 
-	para "Myself..."
+	para "Jo..."
 
-	para "I study #MON"
-	line "as a profession."
+	para "Jo estudie #MON"
+	line "per ofici."
 	prompt
 
 _IntroducePlayerText::
-	text "First, what is"
-	line "your name?"
+	text "Primer, com et"
+	line "diuen?"
 	prompt
 
 _IntroduceRivalText::
-	text "This is my grand-"
-	line "son. He's been"
-	cont "your rival since"
-	cont "you were a baby."
+	text "Este és el meu"
+	line "nét. Ha sigut el"
+	cont "teu rival des que"
+	cont "éreu dos nanos."
 
-	para "...Erm, what is"
-	line "his name again?"
+	para "Eh... com era"
+	line "el seu nom?"
 	prompt
 
 _OakSpeechText3::
 	text "<PLAYER>!"
 
-	para "Your very own"
-	line "#MON legend is"
-	cont "about to unfold!"
+	para "La teua pròpia"
+	line "aventura #MON és"
+	cont "a punt de"
+	cont "començar!"
 
-	para "A world of dreams"
-	line "and adventures"
-	cont "with #MON"
-	cont "awaits! Let's go!"
+	para "Un món de somnis"
+	line "i adventures"
+	cont "amb #MON"
+	cont "t'espera!"
 	done
