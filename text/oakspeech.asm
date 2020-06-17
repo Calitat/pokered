@@ -9,9 +9,9 @@ _OakSpeechText1::
 	prompt
 
 _OakSpeechText2A::
-	text "Este món està"
+	text "Este món esta"
 	line "habitat per"
-	cont "criatures anomenadoes"
+	cont "criatures anomenades"
 	cont "#MON!@@"
 
 _OakSpeechText2B::
@@ -45,10 +45,10 @@ _IntroduceRivalText::
 _OakSpeechText3::
 	text "<PLAYER>!"
 
-	para "La teua pròpia"
+	para "La teua propia"
 	line "aventura #MON és"
 	cont "a punt de"
-	cont "començar!"
+	cont "comencar!"
 
 	para "Un món de somnis"
 	line "i adventures"
